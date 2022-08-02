@@ -2,7 +2,7 @@
 This is a IoT based sensors project. It can measure temperature, atmospheric pressure and Humidity and upload the data to the server.
 Where any one can visit the webpage and see the data. The Link is given below.
 
-# http://sensorsproject.000webhostapp.com/
+# http://sensorsapp.000webhostapp.com/
 # Some Pictures of this Project
 ![Temp and Hum Measure](https://github.com/shuvabratadey/IoT-Sensors-Project/blob/main/photos/Temp%20and%20Hum%20Measure.jpg)
 ![Atmospheric Pressure](https://github.com/shuvabratadey/IoT-Sensors-Project/blob/main/photos/Atmospheric%20Pressure.jpg)
